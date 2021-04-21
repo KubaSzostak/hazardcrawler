@@ -16,19 +16,19 @@ into the `hazard_events` layer located in PosgreSQL/PostGIS database.
 1. Install [PostGIS database](https://postgis.net/install/).
 2. Install [GDAL](https://gdal.org/download.html#binaries).
 3. Install [Python 3](https://realpython.com/installing-python/).
-4. Install GDAL python bindings  (check your version by using `gdalinfo --version`).  
+4. Install GDAL python bindings  (check your version by using `gdalinfo --version`)  
    `python3 -m pip install gdal==2.4.1`
-5. Install a PostgreSQL adapter for the Python.   
+5. Install a PostgreSQL adapter for the Python   
    `python3 -m pip install psycopg2-binary`
 
 ### Setup the hazard events crawler database
 
-Initialize database connection settings and create the `hazard_events` table.  
+Initialize database connection settings and create the `hazard_events` table  
 `python3 scripts/pgsetup.py` 
      
 ### Run Crawler
 
-Import the hazard events data from external providers.  
+Import the hazard events data from external providers  
 `python3 scripts/import_all.py`  
 
 ## Database schema
@@ -74,7 +74,7 @@ All views have the same attributes as `hazard_events` table.
   Other have multiple features per single event (eg. EONET). 
   In current implementation when multiple features occurs, only last feature is used. 
   This behaviour can be changed eg. by moving from `Point` to `MultiPoint`.
-- Some providers have single category (event type). 
+- Some providers record single category (event type) for event. 
   Other allow multiple categories per single event (eg. *earthquake* and *volcano*). 
   In current implementation only first category is used. 
   This behaviour can be changed by allowing multiple categories or by duplicating features with many categories.
