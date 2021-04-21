@@ -1,0 +1,2094 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {},
+    "features": [
+        {
+            "type": "Feature",
+            "id": "EQ12652401370727Centroid",
+            "properties": {
+                "description": "Earthquake in Islamic Republic of Iran",
+                "name": "Earthquake in Islamic Republic of Iran",
+                "htmldescription": "Orange Earthquake in Islamic Republic of Iran at: 18/Apr/2021 06:41:50.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1265240&episodeid=1370727",
+                "featureIndex": "0",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "alertlevel": "Orange",
+                "eventtype": "EQ",
+                "eventid": "1265240",
+                "episodeid": "1370727",
+                "eventname": "",
+                "fromdate": "18/Apr/2021 06:41:50",
+                "todate": "18/Apr/2021 06:41:50",
+                "country": "Islamic Republic of Iran",
+                "countrylist": "Islamic Republic of Iran",
+                "iso3": "IRN",
+                "severity": "5.8",
+                "latitude": "29.7874",
+                "longitude": "50.6693",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/eq/eq1370727_2.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.6693,
+                    29.7874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "VO10000203Centroid",
+            "properties": {
+                "description": "Eruption  Soufriere St. Vincent",
+                "name": "Eruption  Soufriere St. Vincent",
+                "htmldescription": "Orange Eruption Soufriere St. Vincent in Saint Vincent and the Grenadines at: 15/Apr/2021 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000020&episodeid=3",
+                "featureIndex": "1",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/VO.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/VO.png",
+                "alertlevel": "Orange",
+                "eventtype": "VO",
+                "eventid": "1000020",
+                "episodeid": "3",
+                "eventname": "Soufriere St. Vincent",
+                "fromdate": "09/Apr/2021 00:00:00",
+                "todate": "15/Apr/2021 00:00:00",
+                "country": "Saint Vincent and the Grenadines",
+                "countrylist": "Saint Vincent and the Grenadines",
+                "iso3": "VCT",
+                "severity": "0",
+                "latitude": "13.33",
+                "longitude": "-61.18",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsVOVAAC&bboxSR=&layers=&layerdefs=0:VOLC_NAME='Soufriere St. Vincent'%20AND%20ADVISORY_NUMBER='2021/3';1:NAME='Soufriere St. Vincent'&imageSR=&format=png24&transparent=false&dpi=&bbox=-65.18,9.33,-57.18,17.33&size=500,350&filename=gdacs/vo/voSouf_2.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.18,
+                    13.33
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11008101Centroid",
+            "properties": {
+                "description": "Flood in Timor-Leste, Indonesia",
+                "name": "Flood in Timor-Leste, Indonesia",
+                "htmldescription": "Orange Flood in Timor-Leste, Indonesia from: 03/Apr/2021 01:00:00 to:10/Apr/2021 01:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100810&episodeid=1",
+                "featureIndex": "2",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100810",
+                "episodeid": "1",
+                "eventname": "",
+                "fromdate": "03/Apr/2021 01:00:00",
+                "todate": "10/Apr/2021 01:00:00",
+                "country": "Timor-Leste, Indonesia",
+                "countrylist": "Timor-Leste, Indonesia",
+                "iso3": "IDN",
+                "severity": "0",
+                "latitude": "-2.4833826",
+                "longitude": "117.8902853",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=109.8903,-8.4834,125.8903,3.5166&bboxSR=&layers=&layerdefs=1:EVENTID=1100810%20AND%20episodeid=1&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100810\\flood_overview_1100810.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.8902853,
+                    -2.4833826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "EQ12612151365608Centroid",
+            "properties": {
+                "description": "Earthquake in Algeria",
+                "name": "Earthquake in Algeria",
+                "htmldescription": "Orange Earthquake in Algeria at: 18/Mar/2021 00:04:07.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1261215&episodeid=1365608",
+                "featureIndex": "3",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "alertlevel": "Orange",
+                "eventtype": "EQ",
+                "eventid": "1261215",
+                "episodeid": "1365608",
+                "eventname": "",
+                "fromdate": "18/Mar/2021 00:04:07",
+                "todate": "18/Mar/2021 00:04:07",
+                "country": "Algeria",
+                "countrylist": "Algeria",
+                "iso3": "DZA",
+                "severity": "6",
+                "latitude": "36.917",
+                "longitude": "5.2064",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/eq/eq1365608_2.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2064,
+                    36.917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100077225Centroid",
+            "properties": {
+                "description": "Tropical Cyclone NIRAN-21",
+                "name": "Tropical Cyclone NIRAN-21",
+                "htmldescription": "Red Tropical Cylone NIRAN-21 in New Caledonia, Australia, Norfolk Island, Vanuatu from: 01/Mar/2021 00:00:00 to:07/Mar/2021 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000772&episodeid=25",
+                "featureIndex": "4",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000772",
+                "episodeid": "25",
+                "eventname": "NIRAN-21",
+                "fromdate": "01/Mar/2021 00:00:00",
+                "todate": "07/Mar/2021 00:00:00",
+                "country": "New Caledonia, Australia, Norfolk Island, Vanuatu",
+                "countrylist": "New Caledonia,Australia,Norfolk Island,Vanuatu",
+                "iso3": "NCL",
+                "severity": "259.2576",
+                "latitude": "-27.3",
+                "longitude": "175.7",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000772/clouds_1000772_25.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.7,
+                    -27.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "EQ12586471362590Centroid",
+            "properties": {
+                "description": "Earthquake in Kermadec Islands, New Zealand",
+                "name": "Earthquake in Kermadec Islands, New Zealand",
+                "htmldescription": "Orange Earthquake in Kermadec Islands, New Zealand at: 04/Mar/2021 19:28:32.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1258647&episodeid=1362590",
+                "featureIndex": "5",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "alertlevel": "Orange",
+                "eventtype": "EQ",
+                "eventid": "1258647",
+                "episodeid": "1362590",
+                "eventname": "",
+                "fromdate": "04/Mar/2021 19:28:32",
+                "todate": "04/Mar/2021 19:28:32",
+                "country": "Kermadec Islands, New Zealand",
+                "countrylist": "Kermadec Islands, New Zealand",
+                "iso3": "",
+                "severity": "8.1",
+                "latitude": "-29.7347",
+                "longitude": "-177.2817",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/eq/eq1362590_2.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -177.2817,
+                    -29.7347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11007552Centroid",
+            "properties": {
+                "description": "Flood in India",
+                "name": "Flood in India",
+                "htmldescription": "Orange Flood in India from: 07/Feb/2021 00:00:00 to:09/Feb/2021 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100755&episodeid=2",
+                "featureIndex": "6",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100755",
+                "episodeid": "2",
+                "eventname": "",
+                "fromdate": "07/Feb/2021 00:00:00",
+                "todate": "09/Feb/2021 00:00:00",
+                "country": "India",
+                "countrylist": "India",
+                "iso3": "IND",
+                "severity": "0",
+                "latitude": "30.2981965",
+                "longitude": "79.5672149",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=71.5672,24.2982,87.5672,36.2982&bboxSR=&layers=&layerdefs=1:EVENTID=1100755%20AND%20episodeid=2&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100755\\flood_overview_1100755.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5672149,
+                    30.2981965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "EQ12547941356973Centroid",
+            "properties": {
+                "description": "Earthquake in Philippines",
+                "name": "Earthquake in Philippines",
+                "htmldescription": "Orange Earthquake in Philippines at: 07/Feb/2021 04:22:57.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1254794&episodeid=1356973",
+                "featureIndex": "7",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "alertlevel": "Orange",
+                "eventtype": "EQ",
+                "eventid": "1254794",
+                "episodeid": "1356973",
+                "eventname": "",
+                "fromdate": "07/Feb/2021 04:22:57",
+                "todate": "07/Feb/2021 04:22:57",
+                "country": "Philippines",
+                "countrylist": "Philippines",
+                "iso3": "PHL",
+                "severity": "6",
+                "latitude": "6.7833",
+                "longitude": "125.2056",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/eq/eq1356973_2.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.2056,
+                    6.7833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100076312Centroid",
+            "properties": {
+                "description": "Tropical Cyclone ANA-21",
+                "name": "Tropical Cyclone ANA-21",
+                "htmldescription": "Orange Tropical Cylone ANA-21 in Fiji from: 30/Jan/2021 00:00:00 to:01/Feb/2021 18:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000763&episodeid=12",
+                "featureIndex": "8",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "alertlevel": "Orange",
+                "eventtype": "TC",
+                "eventid": "1000763",
+                "episodeid": "12",
+                "eventname": "ANA-21",
+                "fromdate": "30/Jan/2021 00:00:00",
+                "todate": "01/Feb/2021 18:00:00",
+                "country": "Fiji",
+                "countrylist": "Fiji",
+                "iso3": "FJI",
+                "severity": "120.3696",
+                "latitude": "-23.1",
+                "longitude": "179.6",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000763/clouds_1000763_12.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.6,
+                    -23.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11007453Centroid",
+            "properties": {
+                "description": "Flood in Eswatini, Madagascar, Mozambique, South Africa, Zimbabwe",
+                "name": "Flood in Eswatini, Madagascar, Mozambique, South Africa, Zimbabwe",
+                "htmldescription": "Orange Flood in Eswatini, Madagascar, Mozambique, South Africa, Zimbabwe from: 19/Jan/2021 00:00:00 to:31/Jan/2021 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100745&episodeid=3",
+                "featureIndex": "9",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100745",
+                "episodeid": "3",
+                "eventname": "",
+                "fromdate": "19/Jan/2021 00:00:00",
+                "todate": "31/Jan/2021 00:00:00",
+                "country": "Eswatini, Madagascar, Mozambique, South Africa, Zimbabwe",
+                "countrylist": "Eswatini, Madagascar, Mozambique, South Africa, Zimbabwe",
+                "iso3": "SWZ",
+                "severity": "0",
+                "latitude": "-14.9061192",
+                "longitude": "50.2780918",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=42.2781,-20.9061,58.2781,-8.9061&bboxSR=&layers=&layerdefs=1:EVENTID=1100745%20AND%20episodeid=3&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100745\\flood_overview_1100745.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.2780918,
+                    -14.9061192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100076013Centroid",
+            "properties": {
+                "description": "Tropical Cyclone ELOISE-21",
+                "name": "Tropical Cyclone ELOISE-21",
+                "htmldescription": "Orange Tropical Cylone ELOISE-21 in Mozambique, Zimbabwe, Madagascar, Miscellaneous (French) Indian Ocean Islands from: 17/Jan/2021 06:00:00 to:23/Jan/2021 06:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000760&episodeid=13",
+                "featureIndex": "10",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "alertlevel": "Orange",
+                "eventtype": "TC",
+                "eventid": "1000760",
+                "episodeid": "13",
+                "eventname": "ELOISE-21",
+                "fromdate": "17/Jan/2021 06:00:00",
+                "todate": "23/Jan/2021 06:00:00",
+                "country": "Mozambique, Zimbabwe, Madagascar, Miscellaneous (French) Indian Ocean Islands",
+                "countrylist": "Mozambique,Zimbabwe,Madagascar,Miscellaneous (French) Indian Ocean Islands",
+                "iso3": "MOZ",
+                "severity": "138.888",
+                "latitude": "-20.4",
+                "longitude": "34",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000760/clouds_1000760_13.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.0,
+                    -20.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "EQ12521691353652Centroid",
+            "properties": {
+                "description": "Earthquake in Argentina",
+                "name": "Earthquake in Argentina",
+                "htmldescription": "Orange Earthquake in Argentina at: 19/Jan/2021 02:46:22.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1252169&episodeid=1353652",
+                "featureIndex": "11",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "alertlevel": "Orange",
+                "eventtype": "EQ",
+                "eventid": "1252169",
+                "episodeid": "1353652",
+                "eventname": "",
+                "fromdate": "19/Jan/2021 02:46:22",
+                "todate": "19/Jan/2021 02:46:22",
+                "country": "Argentina",
+                "countrylist": "Argentina",
+                "iso3": "ARG",
+                "severity": "6.4",
+                "latitude": "-31.8184",
+                "longitude": "-68.8473",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/eq/eq1353652_2.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.8473,
+                    -31.8184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "EQ12515731353040Centroid",
+            "properties": {
+                "description": "Earthquake in Indonesia",
+                "name": "Earthquake in Indonesia",
+                "htmldescription": "Orange Earthquake in Indonesia at: 14/Jan/2021 18:28:18.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1251573&episodeid=1353040",
+                "featureIndex": "12",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "alertlevel": "Orange",
+                "eventtype": "EQ",
+                "eventid": "1251573",
+                "episodeid": "1353040",
+                "eventname": "",
+                "fromdate": "14/Jan/2021 18:28:18",
+                "todate": "14/Jan/2021 18:28:18",
+                "country": "Indonesia",
+                "countrylist": "Indonesia",
+                "iso3": "IDN",
+                "severity": "6.1",
+                "latitude": "-2.9778",
+                "longitude": "118.9019",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/eq/eq1353040_2.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.9019,
+                    -2.9778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "EQ12494971350276Centroid",
+            "properties": {
+                "description": "Earthquake in Croatia",
+                "name": "Earthquake in Croatia",
+                "htmldescription": "Orange Earthquake in Croatia at: 29/Dec/2020 11:19:54.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1249497&episodeid=1350276",
+                "featureIndex": "13",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "alertlevel": "Orange",
+                "eventtype": "EQ",
+                "eventid": "1249497",
+                "episodeid": "1350276",
+                "eventname": "",
+                "fromdate": "29/Dec/2020 11:19:54",
+                "todate": "29/Dec/2020 11:19:54",
+                "country": "Croatia",
+                "countrylist": "Croatia",
+                "iso3": "HRV",
+                "severity": "6.4",
+                "latitude": "45.4121",
+                "longitude": "16.2977",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/eq/eq1350276_2.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2977,
+                    45.4121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100075231Centroid",
+            "properties": {
+                "description": "Tropical Cyclone YASA-20",
+                "name": "Tropical Cyclone YASA-20",
+                "htmldescription": "Red Tropical Cylone YASA-20 in Fiji, from: 12/Dec/2020 12:00:00 to:20/Dec/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000752&episodeid=31",
+                "featureIndex": "14",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000752",
+                "episodeid": "31",
+                "eventname": "YASA-20",
+                "fromdate": "12/Dec/2020 12:00:00",
+                "todate": "20/Dec/2020 00:00:00",
+                "country": "Fiji, ",
+                "countrylist": "Fiji",
+                "iso3": "FJI",
+                "severity": "259.2576",
+                "latitude": "-23.3",
+                "longitude": "-178.1",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000752/clouds_1000752_31.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.1,
+                    -23.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11006961Centroid",
+            "properties": {
+                "description": "Flood in India",
+                "name": "Flood in India",
+                "htmldescription": "Orange Flood in India from: 02/Dec/2020 00:00:00 to:08/Dec/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100696&episodeid=1",
+                "featureIndex": "15",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100696",
+                "episodeid": "1",
+                "eventname": "",
+                "fromdate": "02/Dec/2020 00:00:00",
+                "todate": "08/Dec/2020 00:00:00",
+                "country": "India",
+                "countrylist": "India",
+                "iso3": "IND",
+                "severity": "0",
+                "latitude": "11.1016545",
+                "longitude": "79.6524587",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=71.6525,5.1017,87.6525,17.1017&bboxSR=&layers=&layerdefs=1:EVENTID=1100696%20AND%20episodeid=1&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100696\\flood_overview_1100696.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6524587,
+                    11.1016545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100074814Centroid",
+            "properties": {
+                "description": "Tropical Cyclone BUREVI-20",
+                "name": "Tropical Cyclone BUREVI-20",
+                "htmldescription": "Orange Tropical Cylone BUREVI-20 in India, Sri Lanka from: 01/Dec/2020 12:00:00 to:04/Dec/2020 18:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000748&episodeid=14",
+                "featureIndex": "16",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "alertlevel": "Orange",
+                "eventtype": "TC",
+                "eventid": "1000748",
+                "episodeid": "14",
+                "eventname": "BUREVI-20",
+                "fromdate": "01/Dec/2020 12:00:00",
+                "todate": "04/Dec/2020 18:00:00",
+                "country": "India, Sri Lanka",
+                "countrylist": "India,Sri Lanka",
+                "iso3": "IND",
+                "severity": "83.3328",
+                "latitude": "9",
+                "longitude": "79.4",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000748/clouds_1000748_14.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4,
+                    9.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100074711Centroid",
+            "properties": {
+                "description": "Tropical Cyclone NIVAR-20",
+                "name": "Tropical Cyclone NIVAR-20",
+                "htmldescription": "Red Tropical Cylone NIVAR-20 in India from: 23/Nov/2020 12:00:00 to:26/Nov/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000747&episodeid=11",
+                "featureIndex": "17",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000747",
+                "episodeid": "11",
+                "eventname": "NIVAR-20",
+                "fromdate": "23/Nov/2020 12:00:00",
+                "todate": "26/Nov/2020 00:00:00",
+                "country": "India",
+                "countrylist": "India",
+                "iso3": "IND",
+                "severity": "129.6288",
+                "latitude": "12.3",
+                "longitude": "79.4",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000747/clouds_1000747_11.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4,
+                    12.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC10007469Centroid",
+            "properties": {
+                "description": "Tropical Cyclone GATI-20",
+                "name": "Tropical Cyclone GATI-20",
+                "htmldescription": "Orange Tropical Cylone GATI-20 in Somalia from: 21/Nov/2020 18:00:00 to:23/Nov/2020 18:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000746&episodeid=9",
+                "featureIndex": "18",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "alertlevel": "Orange",
+                "eventtype": "TC",
+                "eventid": "1000746",
+                "episodeid": "9",
+                "eventname": "GATI-20",
+                "fromdate": "21/Nov/2020 18:00:00",
+                "todate": "23/Nov/2020 18:00:00",
+                "country": "Somalia",
+                "countrylist": "Somalia",
+                "iso3": "SOM",
+                "severity": "185.184",
+                "latitude": "11.9",
+                "longitude": "47.5",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000746/clouds_1000746_9.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.5,
+                    11.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100074321Centroid",
+            "properties": {
+                "description": "Tropical Cyclone IOTA-20",
+                "name": "Tropical Cyclone IOTA-20",
+                "htmldescription": "Red Tropical Cylone IOTA-20 in Honduras, Nicaragua from: 13/Nov/2020 15:00:00 to:18/Nov/2020 15:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000743&episodeid=21",
+                "featureIndex": "19",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000743",
+                "episodeid": "21",
+                "eventname": "IOTA-20",
+                "fromdate": "13/Nov/2020 15:00:00",
+                "todate": "18/Nov/2020 15:00:00",
+                "country": "Honduras, Nicaragua",
+                "countrylist": "Honduras,Nicaragua",
+                "iso3": "HND",
+                "severity": "259.2576",
+                "latitude": "13.8",
+                "longitude": "-89.5",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000743/clouds_1000743_21.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.5,
+                    13.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100074125Centroid",
+            "properties": {
+                "description": "Tropical Cyclone VAMCO-20",
+                "name": "Tropical Cyclone VAMCO-20",
+                "htmldescription": "Red Tropical Cylone VAMCO-20 in Viet Nam, Laos, Philippines from: 09/Nov/2020 06:00:00 to:15/Nov/2020 06:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000741&episodeid=25",
+                "featureIndex": "20",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000741",
+                "episodeid": "25",
+                "eventname": "VAMCO-20",
+                "fromdate": "09/Nov/2020 06:00:00",
+                "todate": "15/Nov/2020 06:00:00",
+                "country": "Viet Nam, Laos, Philippines",
+                "countrylist": "Viet Nam,Laos,Philippines",
+                "iso3": "VNM",
+                "severity": "212.9616",
+                "latitude": "17.7",
+                "longitude": "106.5",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000741/clouds_1000741_25.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.5,
+                    17.7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100073852Centroid",
+            "properties": {
+                "description": "Tropical Cyclone ETA-20",
+                "name": "Tropical Cyclone ETA-20",
+                "htmldescription": "Red Tropical Cylone ETA-20 in Nicaragua, United States, Honduras from: 31/Oct/2020 21:00:00 to:13/Nov/2020 09:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000738&episodeid=52",
+                "featureIndex": "21",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000738",
+                "episodeid": "52",
+                "eventname": "ETA-20",
+                "fromdate": "31/Oct/2020 21:00:00",
+                "todate": "13/Nov/2020 09:00:00",
+                "country": "Nicaragua, United States, Honduras",
+                "countrylist": "Nicaragua,United States,Honduras",
+                "iso3": "NIC",
+                "severity": "240.7392",
+                "latitude": "33.3",
+                "longitude": "-76.8",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000738/clouds_1000738_52.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8,
+                    33.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11006691Centroid",
+            "properties": {
+                "description": "Flood in Costa Rica, Guatemala, Honduras, Jamaica, Mexico, Nicaragua, Panama, Trinidad and Tobago, United States",
+                "name": "Flood in Costa Rica, Guatemala, Honduras, Jamaica, Mexico, Nicaragua, Panama, Trinidad and Tobago, United States",
+                "htmldescription": "Orange Flood in Costa Rica, Guatemala, Honduras, Jamaica, Mexico, Nicaragua, Panama, Trinidad and Tobago, United States from: 03/Nov/2020 00:00:00 to:13/Nov/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100669&episodeid=1",
+                "featureIndex": "22",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100669",
+                "episodeid": "1",
+                "eventname": "",
+                "fromdate": "03/Nov/2020 00:00:00",
+                "todate": "13/Nov/2020 00:00:00",
+                "country": "Costa Rica, Guatemala, Honduras, Jamaica, Mexico, Nicaragua, Panama, Trinidad and Tobago, United States",
+                "countrylist": "Costa Rica, Guatemala, Honduras, Jamaica, Mexico, Nicaragua, Panama, Trinidad and Tobago, United States",
+                "iso3": "CRI",
+                "severity": "0",
+                "latitude": "13.7573449",
+                "longitude": "-84.7503401",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=-92.7503,7.7573,-76.7503,19.7573&bboxSR=&layers=&layerdefs=1:EVENTID=1100669%20AND%20episodeid=1&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100669\\flood_overview_1100669.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7503401,
+                    13.7573449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11006721Centroid",
+            "properties": {
+                "description": "Flood in Philippines",
+                "name": "Flood in Philippines",
+                "htmldescription": "Orange Flood in Philippines from: 11/Nov/2020 00:00:00 to:11/Nov/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100672&episodeid=1",
+                "featureIndex": "23",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100672",
+                "episodeid": "1",
+                "eventname": "",
+                "fromdate": "11/Nov/2020 00:00:00",
+                "todate": "11/Nov/2020 00:00:00",
+                "country": "Philippines",
+                "countrylist": "Philippines",
+                "iso3": "PHL",
+                "severity": "0",
+                "latitude": "14.60894635",
+                "longitude": "121.0222262",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=113.0222,8.6089,129.0222,20.6089&bboxSR=&layers=&layerdefs=1:EVENTID=1100672%20AND%20episodeid=1&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100672\\flood_overview_1100672.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0222262,
+                    14.60894635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100073637Centroid",
+            "properties": {
+                "description": "Tropical Cyclone GONI-20",
+                "name": "Tropical Cyclone GONI-20",
+                "htmldescription": "Red Tropical Cylone GONI-20 in Philippines from: 28/Oct/2020 00:00:00 to:06/Nov/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000736&episodeid=37",
+                "featureIndex": "24",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000736",
+                "episodeid": "37",
+                "eventname": "GONI-20",
+                "fromdate": "28/Oct/2020 00:00:00",
+                "todate": "06/Nov/2020 00:00:00",
+                "country": "Philippines",
+                "countrylist": "Philippines",
+                "iso3": "PHL",
+                "severity": "314.8128",
+                "latitude": "13.9",
+                "longitude": "109.2",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000736/clouds_1000736_37.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.2,
+                    13.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11006591Centroid",
+            "properties": {
+                "description": "Flood in Philippines",
+                "name": "Flood in Philippines",
+                "htmldescription": "Orange Flood in Philippines from: 01/Nov/2020 00:00:00 to:01/Nov/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100659&episodeid=1",
+                "featureIndex": "25",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100659",
+                "episodeid": "1",
+                "eventname": "",
+                "fromdate": "01/Nov/2020 00:00:00",
+                "todate": "01/Nov/2020 00:00:00",
+                "country": "Philippines",
+                "countrylist": "Philippines",
+                "iso3": "PHL",
+                "severity": "0",
+                "latitude": "13.5355307",
+                "longitude": "123.3549941",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=115.355,7.5355,131.355,19.5355&bboxSR=&layers=&layerdefs=1:EVENTID=1100659%20AND%20episodeid=1&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100659\\flood_overview_1100659.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.3549941,
+                    13.5355307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "EQ12415081340476Centroid",
+            "properties": {
+                "description": "Earthquake in Greece,Turkey",
+                "name": "Earthquake in Greece,Turkey",
+                "htmldescription": "Orange Earthquake in Greece,Turkey at: 30/Oct/2020 11:51:26.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1241508&episodeid=1340476",
+                "featureIndex": "26",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "alertlevel": "Orange",
+                "eventtype": "EQ",
+                "eventid": "1241508",
+                "episodeid": "1340476",
+                "eventname": "",
+                "fromdate": "30/Oct/2020 11:51:26",
+                "todate": "30/Oct/2020 11:51:26",
+                "country": "Greece,Turkey",
+                "countrylist": "Greece,Turkey",
+                "iso3": "GRC",
+                "severity": "7",
+                "latitude": "37.9175",
+                "longitude": "26.7901",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/eq/eq1340476_2.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7901,
+                    37.9175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100073521Centroid",
+            "properties": {
+                "description": "Tropical Cyclone ZETA-20",
+                "name": "Tropical Cyclone ZETA-20",
+                "htmldescription": "Orange Tropical Cylone ZETA-20 in United States, Mexico, Cuba from: 24/Oct/2020 21:00:00 to:29/Oct/2020 21:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000735&episodeid=21",
+                "featureIndex": "27",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "alertlevel": "Orange",
+                "eventtype": "TC",
+                "eventid": "1000735",
+                "episodeid": "21",
+                "eventname": "ZETA-20",
+                "fromdate": "24/Oct/2020 21:00:00",
+                "todate": "29/Oct/2020 21:00:00",
+                "country": "United States, Mexico, Cuba",
+                "countrylist": "United States,Mexico,Cuba",
+                "iso3": "MEX",
+                "severity": "175.9248",
+                "latitude": "38.8",
+                "longitude": "-75.3",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000735/clouds_1000735_21.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3,
+                    38.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100073418Centroid",
+            "properties": {
+                "description": "Tropical Cyclone MOLAVE-20",
+                "name": "Tropical Cyclone MOLAVE-20",
+                "htmldescription": "Red Tropical Cylone MOLAVE-20 in Viet Nam, Laos, Philippines, Cambodia, Thailand from: 24/Oct/2020 00:00:00 to:28/Oct/2020 06:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000734&episodeid=18",
+                "featureIndex": "28",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000734",
+                "episodeid": "18",
+                "eventname": "MOLAVE-20",
+                "fromdate": "24/Oct/2020 00:00:00",
+                "todate": "28/Oct/2020 06:00:00",
+                "country": "Viet Nam, Laos, Philippines, Cambodia, Thailand",
+                "countrylist": "Viet Nam,Laos,Philippines,Cambodia,Thailand",
+                "iso3": "VNM",
+                "severity": "203.7024",
+                "latitude": "15.4",
+                "longitude": "108.5",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000734/clouds_1000734_18.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.5,
+                    15.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11006552Centroid",
+            "properties": {
+                "description": "Flood in Philippines",
+                "name": "Flood in Philippines",
+                "htmldescription": "Orange Flood in Philippines from: 20/Oct/2020 00:00:00 to:24/Oct/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100655&episodeid=2",
+                "featureIndex": "29",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100655",
+                "episodeid": "2",
+                "eventname": "",
+                "fromdate": "20/Oct/2020 00:00:00",
+                "todate": "24/Oct/2020 00:00:00",
+                "country": "Philippines",
+                "countrylist": "Philippines",
+                "iso3": "PHL",
+                "severity": "0",
+                "latitude": "18.2489463",
+                "longitude": "121.8801489",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=113.8801,12.2489,129.8801,24.2489&bboxSR=&layers=&layerdefs=1:EVENTID=1100655%20AND%20episodeid=2&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100655\\flood_overview_1100655.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8801489,
+                    18.2489463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100073010Centroid",
+            "properties": {
+                "description": "Tropical Cyclone NANGKA-20",
+                "name": "Tropical Cyclone NANGKA-20",
+                "htmldescription": "Orange Tropical Cylone NANGKA-20 in Viet Nam, China, Laos, Thailand from: 11/Oct/2020 18:00:00 to:14/Oct/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000730&episodeid=10",
+                "featureIndex": "30",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "alertlevel": "Orange",
+                "eventtype": "TC",
+                "eventid": "1000730",
+                "episodeid": "10",
+                "eventname": "NANGKA-20",
+                "fromdate": "11/Oct/2020 18:00:00",
+                "todate": "14/Oct/2020 00:00:00",
+                "country": "Viet Nam, China, Laos, Thailand",
+                "countrylist": "Viet Nam,China,Laos,Thailand",
+                "iso3": "VNM",
+                "severity": "92.592",
+                "latitude": "20",
+                "longitude": "106.8",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000730/clouds_1000730_10.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8,
+                    20.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11006413Centroid",
+            "properties": {
+                "description": "Flood in Nigeria",
+                "name": "Flood in Nigeria",
+                "htmldescription": "Orange Flood in Nigeria from: 06/Oct/2020 00:00:00 to:12/Oct/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100641&episodeid=3",
+                "featureIndex": "31",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100641",
+                "episodeid": "3",
+                "eventname": "",
+                "fromdate": "06/Oct/2020 00:00:00",
+                "todate": "12/Oct/2020 00:00:00",
+                "country": "Nigeria",
+                "countrylist": "Nigeria",
+                "iso3": "NGA",
+                "severity": "0",
+                "latitude": "12.467464",
+                "longitude": "8.86498",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=0.865,6.4675,16.865,18.4675&bboxSR=&layers=&layerdefs=1:EVENTID=1100641%20AND%20episodeid=3&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100641\\flood_overview_1100641.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.86498,
+                    12.467464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100072624Centroid",
+            "properties": {
+                "description": "Tropical Cyclone DELTA-20",
+                "name": "Tropical Cyclone DELTA-20",
+                "htmldescription": "Red Tropical Cylone DELTA-20 in United States, Mexico, Cuba, Cayman Islands from: 04/Oct/2020 21:00:00 to:10/Oct/2020 15:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000726&episodeid=24",
+                "featureIndex": "32",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000726",
+                "episodeid": "24",
+                "eventname": "DELTA-20",
+                "fromdate": "04/Oct/2020 21:00:00",
+                "todate": "10/Oct/2020 15:00:00",
+                "country": "United States, Mexico, Cuba, Cayman Islands",
+                "countrylist": "United States,Mexico,Cuba,Cayman Islands",
+                "iso3": "MEX",
+                "severity": "231.48",
+                "latitude": "33.1",
+                "longitude": "-90.8",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000726/clouds_1000726_24.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8,
+                    33.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100071712Centroid",
+            "properties": {
+                "description": "Tropical Cyclone NOUL-20",
+                "name": "Tropical Cyclone NOUL-20",
+                "htmldescription": "Orange Tropical Cylone NOUL-20 in Laos, Thailand, Viet Nam, Cambodia, China from: 15/Sep/2020 12:00:00 to:18/Sep/2020 06:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000717&episodeid=12",
+                "featureIndex": "33",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "alertlevel": "Orange",
+                "eventtype": "TC",
+                "eventid": "1000717",
+                "episodeid": "12",
+                "eventname": "NOUL-20",
+                "fromdate": "15/Sep/2020 12:00:00",
+                "todate": "18/Sep/2020 06:00:00",
+                "country": "Laos, Thailand, Viet Nam, Cambodia, China",
+                "countrylist": "Laos,Thailand,Viet Nam,Cambodia,China",
+                "iso3": "KHM",
+                "severity": "92.592",
+                "latitude": "16.3",
+                "longitude": "105.3",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000717/clouds_1000717_12.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.3,
+                    16.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100070629Centroid",
+            "properties": {
+                "description": "Tropical Cyclone HAISHEN-20",
+                "name": "Tropical Cyclone HAISHEN-20",
+                "htmldescription": "Red Tropical Cylone HAISHEN-20 in Democratic Republic of Korea, Republic of Korea, Japan, China, from: 31/Aug/2020 12:00:00 to:07/Sep/2020 12:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000706&episodeid=29",
+                "featureIndex": "34",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000706",
+                "episodeid": "29",
+                "eventname": "HAISHEN-20",
+                "fromdate": "31/Aug/2020 12:00:00",
+                "todate": "07/Sep/2020 12:00:00",
+                "country": "Democratic Republic of Korea, Republic of Korea, Japan, China, ",
+                "countrylist": "Democratic Republic of Korea,Republic of Korea,Japan,China",
+                "iso3": "PRK",
+                "severity": "249.9984",
+                "latitude": "40.7",
+                "longitude": "128.9",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000706/clouds_1000706_29.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.9,
+                    40.7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100070524Centroid",
+            "properties": {
+                "description": "Tropical Cyclone MAYSAK-20",
+                "name": "Tropical Cyclone MAYSAK-20",
+                "htmldescription": "Red Tropical Cylone MAYSAK-20 in Republic of Korea, Japan, Democratic Republic of Korea, China from: 28/Aug/2020 00:00:00 to:02/Sep/2020 18:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000705&episodeid=24",
+                "featureIndex": "35",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000705",
+                "episodeid": "24",
+                "eventname": "MAYSAK-20",
+                "fromdate": "28/Aug/2020 00:00:00",
+                "todate": "02/Sep/2020 18:00:00",
+                "country": "Republic of Korea, Japan, Democratic Republic of Korea, China",
+                "countrylist": "Republic of Korea,Japan,Democratic Republic of Korea,China",
+                "iso3": "PRK",
+                "severity": "231.48",
+                "latitude": "35.5",
+                "longitude": "129",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000705/clouds_1000705_24.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.0,
+                    35.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100070033Centroid",
+            "properties": {
+                "description": "Tropical Cyclone LAURA-20",
+                "name": "Tropical Cyclone LAURA-20",
+                "htmldescription": "Orange Tropical Cylone LAURA-20 in United States, Cuba, Haiti, Jamaica, Bahamas, Dominican Republic, Puerto Rico, Virgin Islands  U.S., Virgin Islands  British, Anguilla, Saint Kitts and Nevis, Montserrat, Antigua and Barbuda, Guadeloupe, Turks and Caicos Islands, Dominica from: 20/Aug/2020 03:00:00 to:28/Aug/2020 03:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000700&episodeid=33",
+                "featureIndex": "36",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "alertlevel": "Orange",
+                "eventtype": "TC",
+                "eventid": "1000700",
+                "episodeid": "33",
+                "eventname": "LAURA-20",
+                "fromdate": "20/Aug/2020 03:00:00",
+                "todate": "28/Aug/2020 03:00:00",
+                "country": "United States, Cuba, Haiti, Jamaica, Bahamas, Dominican Republic, Puerto Rico, Virgin Islands  U.S., Virgin Islands  British, Anguilla, Saint Kitts and Nevis, Montserrat, Antigua and Barbuda, Guadeloupe, Turks and Caicos Islands, Dominica",
+                "countrylist": "United States,Cuba,Haiti,Jamaica,Bahamas,Dominican Republic,Puerto Rico,Virgin Islands  U.S.,Virgin Islands  British,Anguilla,Saint Kitts and Nevis,Montserrat,Antigua and Barbuda,Guadeloupe,Turks and Caicos Islands,Dominica",
+                "iso3": "USA",
+                "severity": "240.7392",
+                "latitude": "35.1",
+                "longitude": "-92",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000700/clouds_1000700_33.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.0,
+                    35.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100070224Centroid",
+            "properties": {
+                "description": "Tropical Cyclone BAVI-20",
+                "name": "Tropical Cyclone BAVI-20",
+                "htmldescription": "Red Tropical Cylone BAVI-20 in China, Democratic Republic of Korea, Republic of Korea from: 21/Aug/2020 12:00:00 to:27/Aug/2020 06:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000702&episodeid=24",
+                "featureIndex": "37",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000702",
+                "episodeid": "24",
+                "eventname": "BAVI-20",
+                "fromdate": "21/Aug/2020 12:00:00",
+                "todate": "27/Aug/2020 06:00:00",
+                "country": "China, Democratic Republic of Korea, Republic of Korea",
+                "countrylist": "China,Democratic Republic of Korea,Republic of Korea",
+                "iso3": "PRK",
+                "severity": "185.184",
+                "latitude": "41.6",
+                "longitude": "125.8",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000702/clouds_1000702_24.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.8,
+                    41.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "EQ12306291327163Centroid",
+            "properties": {
+                "description": "Earthquake in Philippines",
+                "name": "Earthquake in Philippines",
+                "htmldescription": "Orange Earthquake in Philippines at: 18/Aug/2020 00:03:48.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1230629&episodeid=1327163",
+                "featureIndex": "38",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "alertlevel": "Orange",
+                "eventtype": "EQ",
+                "eventid": "1230629",
+                "episodeid": "1327163",
+                "eventname": "",
+                "fromdate": "18/Aug/2020 00:03:48",
+                "todate": "18/Aug/2020 00:03:48",
+                "country": "Philippines",
+                "countrylist": "Philippines",
+                "iso3": "PHL",
+                "severity": "6.7",
+                "latitude": "12.0102",
+                "longitude": "124.1068",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/eq/eq1327163_2.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.1068,
+                    12.0102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11005741Centroid",
+            "properties": {
+                "description": "Flood in South Sudan",
+                "name": "Flood in South Sudan",
+                "htmldescription": "Orange Flood in South Sudan from: 28/Jul/2020 00:00:00 to:12/Aug/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100574&episodeid=1",
+                "featureIndex": "39",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100574",
+                "episodeid": "1",
+                "eventname": "",
+                "fromdate": "28/Jul/2020 00:00:00",
+                "todate": "12/Aug/2020 00:00:00",
+                "country": "South Sudan",
+                "countrylist": "South Sudan",
+                "iso3": "SSD",
+                "severity": "0",
+                "latitude": "6.2124362",
+                "longitude": "31.5640276",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=23.564,0.2124,39.564,12.2124&bboxSR=&layers=&layerdefs=1:EVENTID=1100574%20AND%20episodeid=1&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100574\\flood_overview_1100574.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5640276,
+                    6.2124362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11005811Centroid",
+            "properties": {
+                "description": "Flood in China",
+                "name": "Flood in China",
+                "htmldescription": "Orange Flood in China from: 11/Aug/2020 00:00:00 to:11/Aug/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100581&episodeid=1",
+                "featureIndex": "40",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100581",
+                "episodeid": "1",
+                "eventname": "",
+                "fromdate": "11/Aug/2020 00:00:00",
+                "todate": "11/Aug/2020 00:00:00",
+                "country": "China",
+                "countrylist": "China",
+                "iso3": "CHN",
+                "severity": "0",
+                "latitude": "30.5750782",
+                "longitude": "104.0662085",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=96.0662,24.5751,112.0662,36.5751&bboxSR=&layers=&layerdefs=1:EVENTID=1100581%20AND%20episodeid=1&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100581\\flood_overview_1100581.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.0662085,
+                    30.5750782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC10006937Centroid",
+            "properties": {
+                "description": "Tropical Cyclone MEKKHALA-20",
+                "name": "Tropical Cyclone MEKKHALA-20",
+                "htmldescription": "Orange Tropical Cylone MEKKHALA-20 in China from: 09/Aug/2020 12:00:00 to:11/Aug/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000693&episodeid=7",
+                "featureIndex": "41",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "alertlevel": "Orange",
+                "eventtype": "TC",
+                "eventid": "1000693",
+                "episodeid": "7",
+                "eventname": "MEKKHALA-20",
+                "fromdate": "09/Aug/2020 12:00:00",
+                "todate": "11/Aug/2020 00:00:00",
+                "country": "China",
+                "countrylist": "China",
+                "iso3": "CHN",
+                "severity": "129.6288",
+                "latitude": "24.1",
+                "longitude": "117.7",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000693/clouds_1000693_7.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.7,
+                    24.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100068633Centroid",
+            "properties": {
+                "description": "Tropical Cyclone ISAIAS-20",
+                "name": "Tropical Cyclone ISAIAS-20",
+                "htmldescription": "Orange Tropical Cylone ISAIAS-20 in United States, Bahamas, Dominican Republic, Puerto Rico, Haiti, Virgin Islands  U.S., Turks and Caicos Islands, Virgin Islands  British, Cuba, Anguilla, Aruba, Netherlands Antilles, Saint Kitts and Nevis, Venezuela, Colombia, Montserrat, Antigua and Barbuda, Guadeloupe, Martinique, Saint Lucia, Saint Vincent and the Grenadines, Grenada, Barbados, Trinidad and Tobago, Dominica, Jamaica from: 28/Jul/2020 15:00:00 to:05/Aug/2020 09:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000686&episodeid=33",
+                "featureIndex": "42",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "alertlevel": "Orange",
+                "eventtype": "TC",
+                "eventid": "1000686",
+                "episodeid": "33",
+                "eventname": "ISAIAS-20",
+                "fromdate": "28/Jul/2020 15:00:00",
+                "todate": "05/Aug/2020 09:00:00",
+                "country": "United States, Bahamas, Dominican Republic, Puerto Rico, Haiti, Virgin Islands  U.S., Turks and Caicos Islands, Virgin Islands  British, Cuba, Anguilla, Aruba, Netherlands Antilles, Saint Kitts and Nevis, Venezuela, Colombia, Montserrat, Antigua and Barbuda, Guadeloupe, Martinique, Saint Lucia, Saint Vincent and the Grenadines, Grenada, Barbados, Trinidad and Tobago, Dominica, Jamaica",
+                "countrylist": "United States,Bahamas,Dominican Republic,Puerto Rico,Haiti,Virgin Islands  U.S.,Turks and Caicos Islands,Virgin Islands  British,Cuba,Anguilla,Aruba,Netherlands Antilles,Saint Kitts and Nevis,Venezuela,Colombia,Montserrat,Antigua and Barbuda,Guadeloupe,Martinique,Saint Lucia,Saint Vincent and the Grenadines,Grenada,Barbados,Trinidad and Tobago,Dominica,Jamaica",
+                "iso3": "BHS",
+                "severity": "138.888",
+                "latitude": "47.5",
+                "longitude": "-71.8",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000686/clouds_1000686_33.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.8,
+                    47.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100068815Centroid",
+            "properties": {
+                "description": "Tropical Cyclone HAGUPIT-20",
+                "name": "Tropical Cyclone HAGUPIT-20",
+                "htmldescription": "Orange Tropical Cylone HAGUPIT-20 in China, Japan, Republic of Korea, Democratic Republic of Korea from: 01/Aug/2020 00:00:00 to:04/Aug/2020 12:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000688&episodeid=15",
+                "featureIndex": "43",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "alertlevel": "Orange",
+                "eventtype": "TC",
+                "eventid": "1000688",
+                "episodeid": "15",
+                "eventname": "HAGUPIT-20",
+                "fromdate": "01/Aug/2020 00:00:00",
+                "todate": "04/Aug/2020 12:00:00",
+                "country": "China, Japan, Republic of Korea, Democratic Republic of Korea",
+                "countrylist": "China,Japan,Republic of Korea,Democratic Republic of Korea",
+                "iso3": "CHN",
+                "severity": "138.888",
+                "latitude": "30.8",
+                "longitude": "120.2",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000688/clouds_1000688_15.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2,
+                    30.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC10006895Centroid",
+            "properties": {
+                "description": "Tropical Cyclone SINLAKU-20",
+                "name": "Tropical Cyclone SINLAKU-20",
+                "htmldescription": "Orange Tropical Cylone SINLAKU-20 in Viet Nam, Laos, China, Thailand from: 01/Aug/2020 06:00:00 to:02/Aug/2020 06:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000689&episodeid=5",
+                "featureIndex": "44",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "alertlevel": "Orange",
+                "eventtype": "TC",
+                "eventid": "1000689",
+                "episodeid": "5",
+                "eventname": "SINLAKU-20",
+                "fromdate": "01/Aug/2020 06:00:00",
+                "todate": "02/Aug/2020 06:00:00",
+                "country": "Viet Nam, Laos, China, Thailand",
+                "countrylist": "Viet Nam,Laos,China,Thailand",
+                "iso3": "VNM",
+                "severity": "64.8144",
+                "latitude": "19.7",
+                "longitude": "105.8",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000689/clouds_1000689_5.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8,
+                    19.7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100068516Centroid",
+            "properties": {
+                "description": "Tropical Cyclone HANNA-20",
+                "name": "Tropical Cyclone HANNA-20",
+                "htmldescription": "Orange Tropical Cylone HANNA-20 in Mexico, United States from: 23/Jul/2020 03:00:00 to:26/Jul/2020 21:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000685&episodeid=16",
+                "featureIndex": "45",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/TC.png",
+                "alertlevel": "Orange",
+                "eventtype": "TC",
+                "eventid": "1000685",
+                "episodeid": "16",
+                "eventname": "HANNA-20",
+                "fromdate": "23/Jul/2020 03:00:00",
+                "todate": "26/Jul/2020 21:00:00",
+                "country": "Mexico, United States",
+                "countrylist": "Mexico,United States",
+                "iso3": "MEX",
+                "severity": "148.1472",
+                "latitude": "25.6",
+                "longitude": "-100.6",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000685/clouds_1000685_16.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.6,
+                    25.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "EQ12266591322096Centroid",
+            "properties": {
+                "description": "Earthquake in Papua New Guinea",
+                "name": "Earthquake in Papua New Guinea",
+                "htmldescription": "Orange Earthquake in Papua New Guinea at: 17/Jul/2020 02:50:23.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1226659&episodeid=1322096",
+                "featureIndex": "46",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "alertlevel": "Orange",
+                "eventtype": "EQ",
+                "eventid": "1226659",
+                "episodeid": "1322096",
+                "eventname": "",
+                "fromdate": "17/Jul/2020 02:50:23",
+                "todate": "17/Jul/2020 02:50:23",
+                "country": "Papua New Guinea",
+                "countrylist": "Papua New Guinea",
+                "iso3": "PNG",
+                "severity": "7",
+                "latitude": "-7.8428",
+                "longitude": "147.7656",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/eq/eq1322096_2.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.7656,
+                    -7.8428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11005241Centroid",
+            "properties": {
+                "description": "Flood in Myanmar",
+                "name": "Flood in Myanmar",
+                "htmldescription": "Orange Flood in Myanmar from: 02/Jul/2020 00:00:00 to:03/Jul/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100524&episodeid=1",
+                "featureIndex": "47",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100524",
+                "episodeid": "1",
+                "eventname": "",
+                "fromdate": "02/Jul/2020 00:00:00",
+                "todate": "03/Jul/2020 00:00:00",
+                "country": "Myanmar",
+                "countrylist": "Myanmar",
+                "iso3": "MMR",
+                "severity": "0",
+                "latitude": "25.6146635",
+                "longitude": "96.2977356",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=88.2977,19.6147,104.2977,31.6147&bboxSR=&layers=&layerdefs=1:EVENTID=1100524%20AND%20episodeid=1&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100524\\flood_overview_1100524.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.2977356,
+                    25.6146635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11005147Centroid",
+            "properties": {
+                "description": "Flood in China",
+                "name": "Flood in China",
+                "htmldescription": "Orange Flood in China from: 21/Jun/2020 00:00:00 to:01/Jul/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100514&episodeid=7",
+                "featureIndex": "48",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100514",
+                "episodeid": "7",
+                "eventname": "",
+                "fromdate": "21/Jun/2020 00:00:00",
+                "todate": "01/Jul/2020 00:00:00",
+                "country": "China",
+                "countrylist": "China",
+                "iso3": "CHN",
+                "severity": "0",
+                "latitude": "27.6120038",
+                "longitude": "111.8402691",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=103.8403,21.612,119.8403,33.612&bboxSR=&layers=&layerdefs=1:EVENTID=1100514%20AND%20episodeid=7&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100514\\flood_overview_1100514.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.8402691,
+                    27.6120038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC10006734Centroid",
+            "properties": {
+                "description": "Tropical Cyclone NISARGA-20",
+                "name": "Tropical Cyclone NISARGA-20",
+                "htmldescription": "Red Tropical Cylone NISARGA-20 in India from: 02/Jun/2020 18:00:00 to:03/Jun/2020 12:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000673&episodeid=4",
+                "featureIndex": "49",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000673",
+                "episodeid": "4",
+                "eventname": "NISARGA-20",
+                "fromdate": "02/Jun/2020 18:00:00",
+                "todate": "03/Jun/2020 12:00:00",
+                "country": "India",
+                "countrylist": "India",
+                "iso3": "IND",
+                "severity": "138.888",
+                "latitude": "19.1",
+                "longitude": "73.7",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000673/clouds_1000673_4.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.7,
+                    19.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11004791Centroid",
+            "properties": {
+                "description": "Flood in Somalia",
+                "name": "Flood in Somalia",
+                "htmldescription": "Orange Flood in Somalia from: 21/May/2020 14:00:00 to:29/May/2020 14:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100479&episodeid=1",
+                "featureIndex": "50",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100479",
+                "episodeid": "1",
+                "eventname": "",
+                "fromdate": "21/May/2020 14:00:00",
+                "todate": "29/May/2020 14:00:00",
+                "country": "Somalia",
+                "countrylist": "Somalia",
+                "iso3": "SOM",
+                "severity": "0",
+                "latitude": "2.042778",
+                "longitude": "45.338564",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=37.3386,-3.9572,53.3386,8.0428&bboxSR=&layers=&layerdefs=1:EVENTID=1100479%20AND%20episodeid=1&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100479\\flood_overview_1100479.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.338564,
+                    2.042778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100066718Centroid",
+            "properties": {
+                "description": "Tropical Cyclone AMPHAN-20",
+                "name": "Tropical Cyclone AMPHAN-20",
+                "htmldescription": "Red Tropical Cylone AMPHAN-20 in India, Bangladesh, Bhutan from: 16/May/2020 06:00:00 to:20/May/2020 12:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000667&episodeid=18",
+                "featureIndex": "51",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000667",
+                "episodeid": "18",
+                "eventname": "AMPHAN-20",
+                "fromdate": "16/May/2020 06:00:00",
+                "todate": "20/May/2020 12:00:00",
+                "country": "India, Bangladesh, Bhutan",
+                "countrylist": "India,Bangladesh,Bhutan",
+                "iso3": "BGD",
+                "severity": "268.5168",
+                "latitude": "22.2",
+                "longitude": "88.3",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000667/clouds_1000667_18.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.3,
+                    22.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "TC100066619Centroid",
+            "properties": {
+                "description": "Tropical Cyclone VONGFONG-20",
+                "name": "Tropical Cyclone VONGFONG-20",
+                "htmldescription": "Red Tropical Cylone VONGFONG-20 in Philippines from: 11/May/2020 18:00:00 to:16/May/2020 06:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1000666&episodeid=19",
+                "featureIndex": "52",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Red/TC.png",
+                "alertlevel": "Red",
+                "eventtype": "TC",
+                "eventid": "1000666",
+                "episodeid": "19",
+                "eventname": "VONGFONG-20",
+                "fromdate": "11/May/2020 18:00:00",
+                "todate": "16/May/2020 06:00:00",
+                "country": "Philippines",
+                "countrylist": "Philippines",
+                "iso3": "PHL",
+                "severity": "194.4432",
+                "latitude": "19.3",
+                "longitude": "120.5",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/tc/1000666/clouds_1000666_19.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5,
+                    19.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11004702Centroid",
+            "properties": {
+                "description": "Flood in Philippines",
+                "name": "Flood in Philippines",
+                "htmldescription": "Orange Flood in Philippines from: 14/May/2020 00:00:00 to:14/May/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100470&episodeid=2",
+                "featureIndex": "53",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100470",
+                "episodeid": "2",
+                "eventname": "",
+                "fromdate": "14/May/2020 00:00:00",
+                "todate": "14/May/2020 00:00:00",
+                "country": "Philippines",
+                "countrylist": "Philippines",
+                "iso3": "PHL",
+                "severity": "0",
+                "latitude": "11.4998863",
+                "longitude": "125.50048715",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=117.5005,5.4999,133.5005,17.4999&bboxSR=&layers=&layerdefs=1:EVENTID=1100470%20AND%20episodeid=2&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100470\\flood_overview_1100470.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.50048715,
+                    11.4998863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11004595Centroid",
+            "properties": {
+                "description": "Flood in Uganda",
+                "name": "Flood in Uganda",
+                "htmldescription": "Orange Flood in Uganda from: 01/May/2020 00:00:00 to:09/May/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100459&episodeid=5",
+                "featureIndex": "54",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100459",
+                "episodeid": "5",
+                "eventname": "",
+                "fromdate": "01/May/2020 00:00:00",
+                "todate": "09/May/2020 00:00:00",
+                "country": "Uganda",
+                "countrylist": "Uganda",
+                "iso3": "UGA",
+                "severity": "0",
+                "latitude": "1.35166485",
+                "longitude": "34.5635806926613",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=26.5636,-4.6483,42.5636,7.3517&bboxSR=&layers=&layerdefs=1:EVENTID=1100459%20AND%20episodeid=5&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100459\\flood_overview_1100459.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5635806926613,
+                    1.35166485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "EQ12163411308378Centroid",
+            "properties": {
+                "description": "Earthquake in Puerto Rico",
+                "name": "Earthquake in Puerto Rico",
+                "htmldescription": "Orange Earthquake in Puerto Rico at: 02/May/2020 11:13:18.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1216341&episodeid=1308378",
+                "featureIndex": "55",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/EQ.png",
+                "alertlevel": "Orange",
+                "eventtype": "EQ",
+                "eventid": "1216341",
+                "episodeid": "1308378",
+                "eventname": "",
+                "fromdate": "02/May/2020 11:13:18",
+                "todate": "02/May/2020 11:13:18",
+                "country": "Puerto Rico",
+                "countrylist": "Puerto Rico",
+                "iso3": "PRI",
+                "severity": "5.4",
+                "latitude": "17.937",
+                "longitude": "-66.7266",
+                "imageoverview": "https://www.gdacs.org/saved/gdacs/eq/eq1308378_2.png",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.7266,
+                    17.937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11004333Centroid",
+            "properties": {
+                "description": "Flood in Kenya",
+                "name": "Flood in Kenya",
+                "htmldescription": "Orange Flood in Kenya from: 18/Apr/2020 00:00:00 to:29/Apr/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100433&episodeid=3",
+                "featureIndex": "56",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100433",
+                "episodeid": "3",
+                "eventname": "",
+                "fromdate": "18/Apr/2020 00:00:00",
+                "todate": "29/Apr/2020 00:00:00",
+                "country": "Kenya",
+                "countrylist": "Kenya",
+                "iso3": "KEN",
+                "severity": "0",
+                "latitude": "2.76556575",
+                "longitude": "35.5977228218592",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=27.5977,-3.2344,43.5977,8.7656&bboxSR=&layers=&layerdefs=1:EVENTID=1100433%20AND%20episodeid=3&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100433\\flood_overview_1100433.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5977228218592,
+                    2.76556575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FL11004501Centroid",
+            "properties": {
+                "description": "Flood in Somalia",
+                "name": "Flood in Somalia",
+                "htmldescription": "Orange Flood in Somalia from: 20/Apr/2020 00:00:00 to:20/Apr/2020 00:00:00.",
+                "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1100450&episodeid=1",
+                "featureIndex": "57",
+                "iconeventlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "iconitemlink": "http://www.gdacs.org/images/gdacs_icons/maps/Orange/FL.png",
+                "alertlevel": "Orange",
+                "eventtype": "FL",
+                "eventid": "1100450",
+                "episodeid": "1",
+                "eventname": "",
+                "fromdate": "20/Apr/2020 00:00:00",
+                "todate": "20/Apr/2020 00:00:00",
+                "country": "Somalia",
+                "countrylist": "Somalia",
+                "iso3": "SOM",
+                "severity": "0",
+                "latitude": "0.515005",
+                "longitude": "42.0756619",
+                "imageoverview": "http://GDACS_ARCGIS/gdacsimages/getservicemap.aspx?mapservice=GDACS/gdacsFLactive&bbox=34.0757,-5.485,50.0757,6.515&bboxSR=&layers=&layerdefs=1:EVENTID=1100450%20AND%20episodeid=1&size=500,350&imageSR=&format=png24&transparent=false&dpi=&filename=gdacs\\fl\\1100450\\flood_overview_1100450.png&f=cache",
+                "polygonlabel": "Centroid",
+                "Class": "Point_Centroid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.0756619,
+                    0.515005
+                ]
+            }
+        }
+    ]
+}
